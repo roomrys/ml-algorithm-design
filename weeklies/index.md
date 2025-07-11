@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Weekly Plans
 permalink: /weeklies/
 ---

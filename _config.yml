@@ -1,6 +1,6 @@
 title: "ML Algorithm Design Curriculum"
 description: "Self-study curriculum and blog on machine learning algorithm design"
-baseurl: "ml-algorithm-design" # Leave empty if published from root of username.github.io/repo
+baseurl: "/ml-algorithm-design" # Leave empty if published from root of username.github.io/repo
 url: "" # Your site URL (optional)
 
 theme: jekyll-theme-minimal
